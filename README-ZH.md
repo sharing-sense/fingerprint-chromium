@@ -9,7 +9,8 @@
 
 | **版本**        | **源码**                                                                                   | **Windows**                                                                                   | **Linux**                                                                                   | **MacOS**     |
 |------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Chrome 142**   | 跟随Chrome 143发布                                                                         | [安装包](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium_142.0.7444.175-1.1_installer_x64.exe) <br> [ZIP](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium_142.0.7444.175-1.1_windows_x64.zip) | [AppImage](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium-142.0.7444.175-1-x86_64.AppImage) <br> [TAR.XZ](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium-142.0.7444.175-1-x86_64_linux.tar.xz) | [142.0.7444.175-1.1_macos.dmg](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium_142.0.7444.175-1.1_macos.dmg) |
+| **Chrome 144**   | 跟随Chrome 145发布  | [安装包](https://github.com/adryfish/fingerprint-chromium/releases/download/144.0.7559.132/ungoogled-chromium_144.0.7559.132-1.1_installer_x64.exe) <br> [ZIP](https://github.com/adryfish/fingerprint-chromium/releases/download/144.0.7559.132/ungoogled-chromium_144.0.7559.132-1.1_windows_x64.zip) | [AppImage](https://github.com/adryfish/fingerprint-chromium/releases/download/144.0.7559.132/ungoogled-chromium-144.0.7559.132-1-x86_64.AppImage) <br> [TAR.XZ](https://github.com/adryfish/fingerprint-chromium/releases/download/144.0.7559.132/ungoogled-chromium-144.0.7559.132-1-x86_64_linux.tar.xz) | |
+| **Chrome 142**   | [142.0.7444.175](https://github.com/adryfish/fingerprint-chromium/tree/142.0.7444.175)              | [安装包](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium_142.0.7444.175-1.1_installer_x64.exe) <br> [ZIP](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium_142.0.7444.175-1.1_windows_x64.zip) | [AppImage](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium-142.0.7444.175-1-x86_64.AppImage) <br> [TAR.XZ](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium-142.0.7444.175-1-x86_64_linux.tar.xz) | [142.0.7444.175-1.1_macos.dmg](https://github.com/adryfish/fingerprint-chromium/releases/download/142.0.7444.175/ungoogled-chromium_142.0.7444.175-1.1_macos.dmg) |
 | **Chrome 139**   | [139.0.7258.154](https://github.com/adryfish/fingerprint-chromium/tree/139.0.7258.154)              | [安装包](https://github.com/adryfish/fingerprint-chromium/releases/download/139.0.7258.154/ungoogled-chromium_139.0.7258.154-1.1_installer_x64.exe) <br> [ZIP](https://github.com/adryfish/fingerprint-chromium/releases/download/139.0.7258.154/ungoogled-chromium_139.0.7258.154-1.1_windows_x64.zip) | [AppImage](https://github.com/adryfish/fingerprint-chromium/releases/download/139.0.7258.154/ungoogled-chromium-139.0.7258.154-1-x86_64.AppImage) <br> [TAR.XZ](https://github.com/adryfish/fingerprint-chromium/releases/download/139.0.7258.154/ungoogled-chromium-139.0.7258.154-1-x86_64_linux.tar.xz) | [139.0.7258.154-1.1_macos.dmg](https://github.com/adryfish/fingerprint-chromium/releases/download/139.0.7258.154/ungoogled-chromium_139.0.7258.154-1.1_macos.dmg) |
 | **Chrome 138**   | [138.0.7204.183](https://github.com/adryfish/fingerprint-chromium/tree/138.0.7204.183)    | [安装包](https://github.com/adryfish/fingerprint-chromium/releases/download/138.0.7204.183/ungoogled-chromium_138.0.7204.183-1.1_installer_x64.exe) <br> [ZIP](https://github.com/adryfish/fingerprint-chromium/releases/download/138.0.7204.183/ungoogled-chromium_138.0.7204.183-1.1_windows_x64.zip) | [ 138.0.7204.183-1_linux.tar.xz ](https://github.com/adryfish/fingerprint-chromium/releases/download/138.0.7204.183/ungoogled-chromium_138.0.7204.183-1_linux.tar.xz) |  |
 | **Chrome 136**   | [136.0.7103.113](https://github.com/adryfish/fingerprint-chromium/tree/136.0.7103.113)              | [安装包](https://github.com/adryfish/fingerprint-chromium/releases/download/136.0.7103.113/ungoogled-chromium_136.0.7103.113-1.1_installer_x64.exe) <br> [ZIP](https://github.com/adryfish/fingerprint-chromium/releases/download/136.0.7103.113/ungoogled-chromium_136.0.7103.113-1.1_windows_x64.zip) | [ 136.0.7103.113-1_linux.tar.xz ](https://github.com/adryfish/fingerprint-chromium/releases/download/136.0.7103.113/ungoogled-chromium_136.0.7103.113-1_linux.tar.xz) | [136.0.7103.113-1.1_macos.dmg](https://github.com/adryfish/fingerprint-chromium/releases/download/136.0.7103.113/ungoogled-chromium_136.0.7103.113-1.1_macos.dmg) |
@@ -47,11 +48,12 @@
 <details open>
 <summary><b>🌟 EasyChat - Claude官网镜像</b></summary>
 
-🔥 **EasyChat** 是一个无需注册和登录的 Claude 官网镜像，免费提供国内直登体验，1:1 还原官网功能，为你畅享高效的 AI 助手服务！
+🔥 **EasyChat** 是一个 Claude 官网镜像，提供国内直连体验，1:1 还原官网功能，为你畅享高效的 AI 助手服务！
 
-- 🚀 **免注册体验**：开箱即用，完整还原官网功能，点击即可开始使用。
 - 🌐 **国内可访问**：无需科学上网，直连 Claude 官网服务。
-- 🤝 **共享会员**：支持使用 Claude 会员账号，无需担心封号风险。
+- 🤝 **共享会员**：经济实惠，轻松体验 Claude 会员功能，无封号风险。
+- 👤 **独享会员**：专属账号独立使用，享受完整会员权益，支持 Claude Code，稳定流畅不受干扰。
+- 🔑 **账号托管**：自有账号一键托管，安全便捷，支持 Claude Code，国内直连无障碍使用。
 
 🔗 **访问网站**：[https://easychat.top](https://easychat.top)
 
@@ -64,13 +66,13 @@
 <details open>
 <summary><b>🛠️ Flapcode</b></summary>
 
-专为不便自建但需要使用 Claude Code 的用户打造的一站式解决方案。
+专为不便自建但需要使用 Claude Code / Codex 的用户打造的一站式解决方案。
 
 **核心优势：**
-- 🌐 **国内直连**：无需科学上网，即可极速访问 Claude Code 完整功能
-- 🤝 **全站 Max 账号**：享受完整的模型体验，无需担心使用限制
-- 💰 **计费简单透明**：采用与官方 API 相同的计费标准，每日更新使用额度
-- 🔒 **安全可靠**：专业运维团队保障服务稳定性，让您专注于开发本身
+- 🌐 **国内直连**：无需科学上网，极速访问 Claude Code / Codex 完整功能
+- 👤 **独享账号**：每个用户独立账号，告别账号池，单价更低，稳定可靠
+- 💾 **缓存全开**：缓存 100% 可用，提升效率，节省开支
+- 🌍 **支持网页版**：Claude Code 同时支持网页端使用
 
 🔗 **访问网站**：[https://flapcode.com](https://flapcode.com)
 
@@ -128,18 +130,21 @@
 | **`--fingerprint-brand`** | 指定 `User-Agent` 和 `User-Agent Data` 中的浏览器品牌 | Chrome, Edge, Opera, Vivaldi (不指定时默认为Chromium) |
 | **`--fingerprint-brand-version`** | 指定品牌的版本号 | 不填时使用默认版本 |
 | **`--fingerprint-hardware-concurrency`** | 指定 CPU 核心数 | 整数值（不提供时由指纹种子随机生成） |
-| **`--fingerprint-gpu-vendor`** | 可选：自定义WebGL指纹的GPU供应商信息（Chrome 139+） | 供应商字符串（如`Intel Inc.`、`NVIDIA Corporation`）。未指定时使用指纹种子自动生成 |
-| **`--fingerprint-gpu-renderer`** | 可选：自定义WebGL指纹的GPU渲染器/型号信息（Chrome 139+） | 渲染器字符串（如`Intel Iris OpenGL Engine`、`NVIDIA GeForce GTX 1060`）。未指定时使用指纹种子自动生成 |
 | **`--disable-non-proxied-udp`** | 指定 WebRTC 策略，默认是禁用非代理 UDP 连接 | 建议保持默认设置 |
 | **`--lang`** | 设置浏览器的语言 | 语言代码（如 `zh-CN`） |
 | **`--accept-lang`** | 设置浏览器接受的语言 | 语言代码（如 `zh-CN,en-US`） |
 | **`--timezone`** | 设置时区 | 时区（如`Asia/Shanghai`, `UTC`） |
 | **`--proxy-server`** | 设置代理 | `http`, `socks`代理(不支持密码验证) |
-| **`--disable-gpu-fingerprint`** | 禁用 GPU 指纹功能（Chrome 142+） | 当 GPU 指纹存在问题时使用此参数 |
+| **`--disable-spoofing`** | 禁用特定指纹伪装功能（Chrome 144+） | 逗号分隔的值：`font`, `audio`, `canvas`, `clientrects`, `gpu` |
+| **`--fingerprint-gpu-vendor`** | ~~自定义WebGL指纹的GPU供应商信息（Chrome 144已移除）~~ | ~~供应商字符串。Chrome 144已移除~~ |
+| **`--fingerprint-gpu-renderer`** | ~~自定义WebGL指纹的GPU渲染器/型号信息（Chrome 144已移除）~~ | ~~渲染器字符串。Chrome 144已移除~~ |
+| **`--disable-gpu-fingerprint`** | ~~禁用GPU指纹功能（Chrome 144已移除，请使用 `--disable-spoofing=gpu` 替代）~~ | ~~Chrome 144已移除~~ |
 
 ### **Chrome 139 新增命令行参数**
 
 **GPU指纹参数**
+
+> **注意**：`--fingerprint-gpu-vendor` 和 `--fingerprint-gpu-renderer` 已在 Chrome 144 中移除。如需禁用 GPU 指纹伪装，请使用 `--disable-spoofing=gpu`。
 
 从Chrome 139开始，使用`--fingerprint`参数时会自动启用GPU指纹功能。以下可选参数允许自定义GPU配置：
 
@@ -181,6 +186,17 @@ Chrome 131 新增了两个用于进阶自定义 `User-Agent` 和 `User-Agent Dat
 
 4. **GPU 指纹禁用选项**
    - GPU 指纹在某些场景下可能存在问题，可使用 `--disable-gpu-fingerprint` 参数禁用 GPU 指纹功能。
+   - ~~Chrome 144 已移除。请使用 `--disable-spoofing=gpu` 替代。~~
+
+### **Chrome 144 新特性**
+
+1. **移除 GPU 指纹参数**
+   - 移除了 `--fingerprint-gpu-vendor`、`--fingerprint-gpu-renderer` 和 `--disable-gpu-fingerprint` 参数。
+
+2. **新增 `--disable-spoofing` 参数**
+   - 逗号分隔的参数，用于选择性禁用特定指纹伪装功能。
+   - 可选值：`font`, `audio`, `canvas`, `clientrects`, `gpu`
+   - 示例：`--disable-spoofing=font,gpu` 禁用字体和 GPU 指纹伪装。
 
 ## 使用示例
 
@@ -220,14 +236,14 @@ chrome.exe --fingerprint=2023 --fingerprint-platform=macos --fingerprint-platfor
 
 ## 赞助商
 
-### Thordata
+### IPdodo
 
-可靠且高性价比的代理服务提供商，为企业和开发者提供稳定、高效、合规的全球代理IP服务。
+值得信赖的代理IP提供商，专为跨境电商、社媒运营、网络爬虫、数据采集与全球业务增长，提供高匿名、高速且安全的代理IP + S5中转服务一体化解决方案。
 
-**优惠**：注册即送1GB住宅代理试用和2000次SERP API调用。
-- 邀请码：`HQI30H2P`
+**优惠**：今日注册即可领取1GB免费住宅代理流量。
+- 邀请码：`ATUQ3Q0O`
 
-🔗 [立即注册](https://dashboard.thordata.com/zh/register?invitation_code=HQI30H2P)
+🔗 [立即注册](https://www.ipdodo.com/account/register?invite_code=ATUQ3Q0O)
 
 ### IPFly
 
@@ -239,6 +255,15 @@ chrome.exe --fingerprint=2023 --fingerprint-platform=macos --fingerprint-platfor
 
 🔗 [立即注册](https://ipfly.net/activity/OUEyV0xHWDk6TFZKOVhYQzM5NQ==)
 
+### RapidProxy
+
+高性能代理服务提供商，提供纯净真实的住宅代理和原生静态 ISP IP，具备高匿名性、高速度和低封禁率。适用于网页抓取、社交媒体自动化、跨境电商及全球业务运营。
+
+**优惠**：提供免费试用，住宅代理流量永久有效。
+**亮点**：原生静态 IP，低封禁，高度匿名，稳定性强。
+- 优惠码：`adryfish`（9折优惠）
+
+🔗 [立即注册](https://www.rapidproxy.io/?code=AZT7HA4NS)
 
 ## Credits
 
